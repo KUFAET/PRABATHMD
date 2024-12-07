@@ -1,4 +1,4 @@
-https://control.bot-hosting.net/server/1f9e73f2name: Node.js CI
+name: Node.js CI
 
 on:
   push:
